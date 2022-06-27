@@ -1,0 +1,15 @@
+C:\Users\chase\Dropbox\VSCloudSync\Graphing3D\Graphing3D\obj\Debug\Graphing3D.csprojAssemblyReference.cache
+C:\Users\chase\Dropbox\VSCloudSync\Graphing3D\Graphing3D\obj\Debug\MainWindow.g.cs
+C:\Users\chase\Dropbox\VSCloudSync\Graphing3D\Graphing3D\obj\Debug\App.g.cs
+C:\Users\chase\Dropbox\VSCloudSync\Graphing3D\Graphing3D\obj\Debug\Graphing3D_MarkupCompile.cache
+C:\Users\chase\Dropbox\VSCloudSync\Graphing3D\Graphing3D\obj\Debug\Graphing3D_MarkupCompile.lref
+C:\Users\chase\Dropbox\VSCloudSync\Graphing3D\Graphing3D\bin\Debug\Graphing3D.exe.config
+C:\Users\chase\Dropbox\VSCloudSync\Graphing3D\Graphing3D\bin\Debug\Graphing3D.exe
+C:\Users\chase\Dropbox\VSCloudSync\Graphing3D\Graphing3D\bin\Debug\Graphing3D.pdb
+C:\Users\chase\Dropbox\VSCloudSync\Graphing3D\Graphing3D\obj\Debug\MainWindow.baml
+C:\Users\chase\Dropbox\VSCloudSync\Graphing3D\Graphing3D\obj\Debug\Graphing3D.g.resources
+C:\Users\chase\Dropbox\VSCloudSync\Graphing3D\Graphing3D\obj\Debug\Graphing3D.Properties.Resources.resources
+C:\Users\chase\Dropbox\VSCloudSync\Graphing3D\Graphing3D\obj\Debug\Graphing3D.csproj.GenerateResource.cache
+C:\Users\chase\Dropbox\VSCloudSync\Graphing3D\Graphing3D\obj\Debug\Graphing3D.exe
+C:\Users\chase\Dropbox\VSCloudSync\Graphing3D\Graphing3D\obj\Debug\Graphing3D.pdb
+C:\Users\chase\Dropbox\VSCloudSync\Graphing3D\Graphing3D\obj\Debug\Graphing3D.csproj.CoreCompileInputs.cache
