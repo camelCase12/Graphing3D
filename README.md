@@ -1,5 +1,5 @@
 # Graphing3D
-Graphing using C# built-in graphics
+Graphing using C# shape libraries. Math for linear transformations is completely custom.
 
 Space to move up, shift to move down, W,A,S,D for directional movement, arrow keys to control camera direction.
 
